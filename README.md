@@ -2,7 +2,9 @@ Hi there 👋, I'm Vitor Santana
 
 
 I have a passion for programming and tecnology! 🚀
+
 👨🏽‍💻 About me:
+
 • 📚 I’m currently learning: Back-End development with Java and C#, trying to get my first experience as a developer.
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
