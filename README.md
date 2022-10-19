@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋, I'm Vitor Santana
 
-<!--
-**saantanavitor/saantanavitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I have a passion for programming and tecnology! 🚀
+👨🏽‍💻 About me:
+• 📚 I’m currently learning: Back-End development with Java and C#, trying to get my first experience as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
+
+• 💬 Ask me about: Anything, honestly, I love knowledge and learning new things
+
+• 📫 How to reach me: saantanavitor@gmail.com
+
+<a href="https://www.linkedin.com/in/vittorsantana/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+</a>
+
