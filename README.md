@@ -9,7 +9,7 @@ I have a passion for programming and tecnology! 🚀
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
-• 💬 Ask me about: Anything, honestly, I love knowledge and learning new things
+• 💬 Ask me about: Anything, honestly, I love to learn new things!
 
 • 📫 How to reach me: saantanavitor@gmail.com
 
