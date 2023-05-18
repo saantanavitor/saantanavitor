@@ -5,7 +5,7 @@ I have a passion for programming and technology! 🚀
 
 👨🏽‍💻 About me:
 
-• 📚 I’m currently learning: Fullstack development with React and Node.js/Java, being a back-end specialist, trying to get my first experience as a developer.
+• 📚 I’m currently learning: Fullstack development with React and Node.js.
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
