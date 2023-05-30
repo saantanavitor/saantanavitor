@@ -5,7 +5,7 @@ I have a passion for programming and technology! 🚀
 
 👨🏽‍💻 About me:
 
-• 📚 I’m currently learning: Fullstack development with React and Node.js.
+• 📚 I’m currently learning: React and NodeJS / Python and Django.
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
