@@ -5,7 +5,7 @@ I have a passion for programming and technology! 🚀
 
 👨🏽‍💻 About me:
 
-• 📚 I’m currently learning: React/Node.Js and Python with Django.
+• 📚 I’m currently learning: React/Node.Js
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
