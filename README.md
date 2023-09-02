@@ -5,7 +5,7 @@ I have a passion for programming and technology! 🚀
 
 👨🏽‍💻 About me:
 
-• 📚 I’m currently learning: C#/Angular.JS
+• 📚 I’m currently learning: TypeScript/Angular.JS
 
 • ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
