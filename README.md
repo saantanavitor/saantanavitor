@@ -7,13 +7,13 @@ I have a passion for programming and technology! 🚀
 
 * 🏢 I'm currently working as Software Engineer I at FCxLabs.
 
-• 📚 ...and studying some: C#/ .NET / TypeScript/ Angular.JS
+* 📚 ...and studying some: C#/ .NET / TypeScript/ Angular.JS
 
-• ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
+* ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
-• 💬 Ask me about: Anything, honestly, I love to learn new things!
+* 💬 Ask me about: Anything, honestly, I love to learn new things!
 
-• 📫 How to reach me: saantanavitor@gmail.com
+* 📫 How to reach me: saantanavitor@gmail.com
 
 <a href="https://www.linkedin.com/in/vittorsantana/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
