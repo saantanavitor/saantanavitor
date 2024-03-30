@@ -7,7 +7,7 @@ I have a passion for programming and technology! 🚀
 
 * 🏢 I'm currently working as Software Engineer I at FCxLabs.
 
-* 📚 ...and studying some: C# / .NET / TypeScript / Angular.JS
+* 📚 ...and studying some: TypeScript / React Native
 
 * ℹ️ Hobbies: Games 🎮 | Music 🎧 | Exercise 🏃 |
 
